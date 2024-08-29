@@ -4,16 +4,13 @@ Veja a especificação detalhada do projeto na [página da disciplina](https://w
 
 ## Identificação do Grupo
 
-- RA: 
-- Nome: 
+- Daniel Paulo Garcia (RA: 169374)
 
 ## Descrição do Projeto
 
-Crie seções para cada uma das informações abaixo:
-
-- Descrição geral do seu projeto
-- Descrição do seu ambiente de desenvolvimento
-- Descrição do seu algoritmo de simulação
+- Descrição geral do projeto
+- Ambiente de desenvolvimento
+- Algoritmo de simulação
 - Descrição de como você testou seu projeto
 - Considerações gerais sobre seu aprendizado nesse projeto
 - Desempenho do seu simulador conforme DryStone e CoreMark
