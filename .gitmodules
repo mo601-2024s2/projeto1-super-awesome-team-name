@@ -1,0 +1,9 @@
+[submodule "test/benchmark/CoreMark"]
+	path = test/benchmark/CoreMark
+	url = https://github.com/eembc/coremark.git
+[submodule "test/benchmark/ACStone"]
+	path = test/benchmark/ACStone
+	url = https://github.com/rjazevedo/ACStone.git
+[submodule "test/benchmark/Dhrystone"]
+	path = test/benchmark/Dhrystone
+	url = https://github.com/sifive/benchmark-dhrystone.git
